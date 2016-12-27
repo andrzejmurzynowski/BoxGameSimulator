@@ -28,9 +28,12 @@ Results:
 
 Print out from the console simulation:
 
-Symulation was run on the 100000 games.
+Simulation was run on the 100000 games.
+
 Sum calculated using STREAM: 9926110
+
 Sum calculated using FOREACH LOOP: 9926110
+
 Average reward is: 99 Euro
 
 
