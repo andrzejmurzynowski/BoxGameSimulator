@@ -23,3 +23,15 @@ When the game is over, the player gets an additional reward. It is chosen random
 Task: 
 Find out the average euro value rewarded when playing one round of this game, using simulations or exact calculations 
 
+
+Results:
+
+Print out from the console simulation:
+
+Symulation was run on the 100000 games.
+Sum calculated using STREAM: 9926110
+Sum calculated using FOREACH LOOP: 9926110
+Average reward is: 99 Euro
+
+
+
